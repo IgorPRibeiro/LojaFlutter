@@ -11,6 +11,8 @@ class UserModel extends Model{
 
   FirebaseAuth _auth = FirebaseAuth.instance;
 
+  static UserModel of(BuildContext context) =>
+    ScopedModel.of<UserModel>(context);
 
 
   //usurio que vai estar logado no momento

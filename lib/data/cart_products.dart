@@ -19,6 +19,8 @@ class CartProducts {
   //Os dados dos produtos do carrinho
   ProductData productData;
 
+  CartProducts();
+
   CartProducts.fromDocument(DocumentSnapshot documentSnapshot){
     //esse documento sera um dos produtos que está no carrinho que será armezanado no banco de dados e irá transformar cada um em um CartProduct
     cid = documentSnapshot.documentID;
@@ -35,7 +37,7 @@ class CartProducts {
       "pid": pid,
       "quantity": quantity,
       "size": size,
-      "product": productData.toResumeMap()
+      //"product": productData.toResumeMap()
     };
   }
 
