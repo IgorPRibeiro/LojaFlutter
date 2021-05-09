@@ -88,6 +88,6 @@
 <hr>
 <div>
 
-  <h4 align="center">A funcionalidade de calcular frete, e os métodos de pagamentos serão disponibilizadas em breve.</h4>
+  <h4 align="center">A funcionalidade de calcular frete, e os métodos de pagamentos serão disponibilizadas em breve.😊</h4>
 
 </div>
