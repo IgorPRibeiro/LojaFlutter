@@ -1,8 +1,16 @@
 <h1 align="center" >
     Lojas de roupas feito em FLutter
 </h1>
+<strong>
+      Este repositório foi criado a partir da ideia de criar um app utilizando do framework Flutter. Inicialmente a primeira versão projeto foi para melhorar o aprendizado adiquirido em um curso da <a href="https://www.udemy.com/course/curso-completo-flutter-app-android-ios/">Udemy</a> mas com o passar do tem tive a vontade de recriar esse projeto para uma loja e utilizar novos conceitos que aprendi na tecnologia.<br></br>                                                                                                               
+
+<p>PS: O projeto ainda está em desenvolvimento</p>
+</strong> 
+<hr>
+
 <p align="center">
-  <a href="#igor-technologies">Technologies</a>
+  <a href="#igor-technologies">Technologies</a> • 
+  <a href="#igor-instalacao">Instalação</a>
 </p>
 <hr>
 
@@ -47,6 +55,27 @@
     </div>
 </br>
 
+
+<hr>
+
+<div id="igor-instalacao">
+    <h2 align="center">Instalação </h2>
+    # Clone the repository
+    $ git clone https://github.com/IgorPRibeiro/LojaFlutter
+
+    # Enter the LojaFLutter directory
+    $ cd ./LojaFlutter/
+
+    # Install Flutter
+    $ https://flutter.dev
+
+    # Install all the dependencies
+    $ flutter pub get
+
+    # Start the application
+    $ flutter run
+</div>
+
 <hr>
 
 <div id="igor-technologies">
@@ -59,6 +88,6 @@
 <hr>
 <div>
 
-  <h4 align="center">A funcionalidade de calcular frete, e os métodos de pagamentos serão realizadas em breve.</h4>
+  <h4 align="center">A funcionalidade de calcular frete, e os métodos de pagamentos serão disponibilizadas em breve.</h4>
 
 </div>
