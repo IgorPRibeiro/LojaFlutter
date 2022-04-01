@@ -2,21 +2,21 @@
     Lojas de roupas feito em FLutter
 </h1>
 <strong>
-      Este repositório foi criado a partir da ideia de criar um app utilizando do framework Flutter. Inicialmente a primeira versão projeto foi para melhorar o aprendizado adiquirido em um curso da <a href="https://www.udemy.com/course/curso-completo-flutter-app-android-ios/">Udemy</a> mas com o passar do tem tive a vontade de recriar esse projeto para uma loja e utilizar novos conceitos que aprendi na tecnologia.<br></br>                                                                                                               
+      This repository was created from the idea of creating an app using the Flutter framework. Initialy the first version was to improve the learnig acquired in a course at <a href="https://www.udemy.com/course/curso-completo-flutter-app-android-ios/">Udemy</a>, but over time I had the urge to recreate this project for a store and use new concepts that I learned in technology
+.<br></br>                                                                                                               
 
-<p>PS: O projeto ainda está em desenvolvimento</p>
 </strong> 
 <hr>
 
 <p align="center">
   <a href="#igor-technologies">Technologies</a> • 
-  <a href="#igor-instalacao">Instalação</a>
+  <a href="#igor-instalacao">Instalation</a>
 </p>
 <hr>
 
 <br>
     <div align="center">
-        <h2 align="center">Inicio</h2>
+        <h2 align="center">Home</h2>
         <img  src="./github/videos/initial.gif" width="300px" height="auto" />
     </div>
 </br>
@@ -32,7 +32,7 @@
 
 <br>
     <div align="center">
-        <h2 align="center">Lojas</h2>
+        <h2 align="center">Store</h2>
         <img  src="./github/videos/lojas.gif" width="300px" height="auto" />
     </div>
 </br>
@@ -42,7 +42,7 @@
 
 <br>
     <div align="center">
-        <h2 align="center">Realizando pedido</h2>
+        <h2 align="center">Order</h2>
         <img  src="./github/videos/pedido.gif" width="300px" height="auto" />
     </div>
 </br>
@@ -50,7 +50,7 @@
 
 <br>
     <div align="center">
-        <h2 align="center">Acompanhamento dos seus Pedidos</h2>
+        <h2 align="center">Tracking your Orders</h2>
         <img  src="./github/videos/pdRealizado.gif" width="300px" height="auto" />
     </div>
 </br>
@@ -59,7 +59,7 @@
 <hr>
 
 <div id="igor-instalacao">
-    <h2 align="center">Instalação </h2>
+    <h2 align="center">Intalation</h2>
     # Clone the repository
     $ git clone https://github.com/IgorPRibeiro/LojaFlutter
 
@@ -79,7 +79,8 @@
 <hr>
 
 <div id="igor-technologies">
-    <h2 align="center">Esse projeto foi densevolvido com o objetivo de estudar as seguintes ferramentas: </h2>
+    <h2 align="center">This project was developed with the aim of studying the following technologies:
+</h2>
     <ul>
       <li><a href="https://flutter.dev">Flutter</a></li>
       <li><a href="https://firebase.google.com/?hl=pt-br">Firebase</a></li>
@@ -88,6 +89,6 @@
 <hr>
 <div>
 
-  <h4 align="center">A funcionalidade de calcular frete, e os métodos de pagamentos serão disponibilizadas em breve. 😊</h4>
+
 
 </div>
