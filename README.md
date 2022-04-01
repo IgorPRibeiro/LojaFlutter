@@ -1,5 +1,5 @@
 <h1 align="center" >
-    Lojas de roupas feito em FLutter
+    Flutter e-commerce
 </h1>
 <strong>
       This repository was created from the idea of creating an app using the Flutter framework. Initialy the first version was to improve the learnig acquired in a course at <a href="https://www.udemy.com/course/curso-completo-flutter-app-android-ios/">Udemy</a>, but over time I had the urge to recreate this project for a store and use new concepts that I learned in technology
